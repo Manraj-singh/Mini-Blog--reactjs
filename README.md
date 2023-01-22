@@ -1,8 +1,9 @@
-# Getting Started with Create React App
+# this project is hosted on https://test-ecf1d.web.app/
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Mini blog created using Reactjs where user can create a post . this does not require authentication as its open for all
+the data is stored on firestore and app is hosted on firebase
 
-## Available Scripts
+## Reactjs stuff below
 
 In the project directory, you can run:
 
